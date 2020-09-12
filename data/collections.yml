@@ -1,0 +1,92 @@
+# Collections and articles are shown in the same order as defined here
+# See this for a full-blown example of a collection
+# - id: "slug-of-the-collection"
+#   title: "The Collection Title"
+#   description: "The collection's description"
+#   # see src/utils/icons.js for a list of all possible icons
+#   icon: "FaBook"
+#   # These are the "pinned" articles at the top of a collection
+#   articles:
+#     # All articles must be in the "../content" folder
+#     - file: ../content/first-article/index.md
+#     - file: ../content/second-article/index.md
+#   sections:
+#     - id: used-as-the-hashtag-of-the-land-animals-section
+#       title: "Land animals"
+#       articles:
+#         - file: ../content/lion/index.md
+#         - file: ../content/cat/index.md
+#     - id: used-as-the-hashtag-of-the-sea-animals-section
+#       title: "Sea animals"
+#       articles:
+#         - file: ../content/dolphins/index.md
+#         - file: ../content/whales/index.md
+
+- id: home
+  title: Punto de Encuentro
+  description: Introducción, libros, ayuda. 
+  icon: "FaHospitalSymbol"
+  articles:
+    - file: ../content/welcome/index.md
+    - file: ../content/libros/index.md
+    - file: ../content/ayuda/index.md
+
+- id: news
+  title: Noticias y Artículos
+  description:
+  icon: "FaNewspaper"
+  sections:
+    - id: noticias
+      title: Noticias
+      articles:
+        - file: ../content/noticias/index.md
+    - id: articulos
+      title: Artículos de nuestros colaboradores
+      description: Anímate a escribir en nuestro blog
+      articles:
+        - file: ../content/blog_articulo01/index.md
+        - file: ../content/blog_articulo02/index.md
+
+- id: youtube
+  title: Canales de YouTube
+  description: 
+  icon: "FaYoutube"
+  sections:
+    - id: youtube-global
+      title: Canales Ateos en Youtube
+      articles:
+        - file: ../content/youtube/index.md
+    - id: youtube-ciencia
+      title: Ciencia
+      description: 
+      articles:
+        - file: ../content/youtube-ciencia/index.md
+
+- id: instagram
+  title: Instagram
+  description: Humor Común, Ateo, Filosóficoy Politico
+  icon: "FaInstagram"
+  sections:
+    - id: instagram-grupos
+      title: Canales Ateos
+      articles:
+        - file: ../content/instagram-grupos/index.md
+    - id: instagram-usuarios
+      title: Usuarios Ateos
+      articles:
+        - file: ../content/instagram-usuarios/index.md
+
+- id: twitter
+  title: Twitter
+  description: 'Options in case you want to say "thank you"'
+  icon: "FaTwitter"
+  articles:
+    - file: ../content/twitter/index.md
+
+- id: facebook
+  title: Facebook
+  description: 'Usuarios y Grupos'
+  icon: "FaFacebook"
+  articles:
+    - file: ../content/twitter/index.md
+
