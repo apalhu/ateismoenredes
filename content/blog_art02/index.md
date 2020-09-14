@@ -1,16 +1,15 @@
 ---
 title: Otro Artículo
 date: 2020-09-12
-author: dferber
-modifiedDate: null
+author: bert
+modifiedDate: 2020-09-13
 description: "Sobre cualquier cosa"
 ---
 
 Introducción
 
-## Título 2
+## Poner el autor
 
-texto
 
 ### Título 3
 

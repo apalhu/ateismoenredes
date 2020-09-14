@@ -31,21 +31,23 @@
     - file: ../content/libros/index.md
     - file: ../content/ayuda/index.md
 
-- id: news
+- id: blog
   title: Noticias y Artículos
   description:
   icon: "FaNewspaper"
   sections:
-    - id: noticias
+    - id: blog-noticias
       title: Noticias
       articles:
         - file: ../content/noticias/index.md
-    - id: articulos
-      title: Artículos de nuestros colaboradores
+    - id: blog-articulos
+      title: Nuestros colaboradores
       description: Anímate a escribir en nuestro blog
       articles:
-        - file: ../content/blog_articulo01/index.md
-        - file: ../content/blog_articulo02/index.md
+        - file: ../content/blog_art01/index.md
+        - file: ../content/blog_art02/index.md
+        - file: ../content/blog_art03/index.md
+
 
 - id: youtube
   title: Canales de YouTube

@@ -1,10 +1,7 @@
-# gatsby-starter-help-center
+# Ateismoenredes
 
-Kick off your project with this help center boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
-![preview](./preview.png)
-
-_This README is a brief overview only. You can find the **full documentation** at [help.dferber.de](https://help.dferber.de/). That documentation site was built with this help center. Visit it to see what the help center looks like in production._
+gatsby-starter-help-center
 
 ## 🚀 Quick start
 
@@ -14,7 +11,7 @@ _This README is a brief overview only. You can find the **full documentation** a
 
     ```shell
     # create a new Gatsby site using the help center starter
-    gatsby new help-center dferber90/gatsby-starter-help-center
+    gatsby new ateismoenredes dferber90/gatsby-starter-help-center
     ```
 
 1.  **Start developing.**
@@ -22,7 +19,7 @@ _This README is a brief overview only. You can find the **full documentation** a
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd help-center/
+    cd ateismoenredes/
     gatsby develop
     ```
 
@@ -32,7 +29,7 @@ _This README is a brief overview only. You can find the **full documentation** a
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-    Open the `help-center` directory in your code editor of choice and edit `content/articles/welcome/index.md`. Save your changes and the browser will update in real time!
+    Open the `ateismoenredes` directory in your code editor of choice and edit `content/articles/welcome/index.md`. Save your changes and the browser will update in real time!
 
 ## 🧐 What's inside?
 
