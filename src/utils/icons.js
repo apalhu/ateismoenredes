@@ -121,5 +121,6 @@ export {
   FaInstagram,
   FaFacebook,
   FaHospitalSymbol,
-  FaNewspaper
+  FaNewspaper,
+  FaHandsHelping
 } from "react-icons/fa"

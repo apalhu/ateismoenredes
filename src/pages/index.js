@@ -24,7 +24,9 @@ class HelpCenterIndex extends React.Component {
       <Layout
         location={this.props.location}
         title={this.props.data.site.siteMetadata.title}
+        headerTitle={this.props.data.site.siteMetadata.headerTitle}
         description={this.props.data.site.siteMetadata.description}
+        contact={this.props.data.site.siteMetadata.contact}
       >
         <SEO title={this.props.data.site.siteMetadata.title} skipSuffix />
         {this.props.data.collections.edges.map(({ node }, index) => {
@@ -159,12 +161,17 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        headerTitle
         description
         texts {
           articlesInCollectionZeroText
           articlesInCollectionOneText
           articlesInCollectionTwoText
           articlesInCollectionMultipleText
+        }
+        contact {
+          sentence
+          icon
         }
       }
     }

@@ -7,6 +7,7 @@ export default {
     paperBackgroundColor: "white",
     paperHoverBackgroundColor: "#fcfcfc",
     paperHeadingColor: "#1CAEE0",
+    //paperHeadingColor: "lavenderblush",
     paperHoverHeadingColor: "#1f8ded",
     paperBorderColor: "transparent",
     paperDescriptionColor: "rgb(86, 88, 103)",

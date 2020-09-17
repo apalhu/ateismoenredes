@@ -12,12 +12,42 @@ import { rhythm } from "../utils/typography"
 //import Logo from "./logo"
 import MainLogo from '../../assets/aer_alfa.png'
 
-//import SearchInput from './search.js'
-
 function SearchInput(props) {
   const [text, setText] = React.useState("")
   const [focused, setFocused] = React.useState(false)
-  const data = props.data
+
+  const data = useStaticQuery(graphql`
+    query SearchQuery {
+      site {
+        siteMetadata {
+          title
+          texts {
+            searchPlaceholderText
+          }
+        }
+      }
+      articles: allMarkdownRemark {
+        nodes {
+          id
+          fields {
+            slug
+            collection {
+              icon
+            }
+          }
+          frontmatter {
+            title
+            description
+          }
+          headings {
+            # depth
+            value
+          }
+          # excerpt(format: PLAIN)
+        }
+      }
+    }
+  `)
 
   const items = data.articles.nodes
 
@@ -183,196 +213,5 @@ function SearchInput(props) {
   )
 }
 
-//class Layout extends React.Component {
-function Layout(props) {
-  const data = useStaticQuery(graphql`
-    query LayoutQuery {
-      site {
-        siteMetadata {
-          title
-          headerTitle
-          description
-          texts {
-            searchPlaceholderText
-          }
-          contact {
-            sentence
-          }
-        }
-      }
-      articles: allMarkdownRemark {
-        nodes {
-          id
-          fields {
-            slug
-            collection {
-              icon
-            }
-          }
-          frontmatter {
-            title
-            description
-          }
-          headings {
-            # depth
-            value
-          }
-          # excerpt(format: PLAIN)
-        }
-      }
-    }
-  `)
 
-  const { location, children } = props
-  const rootPath = `${__PATH_PREFIX__}/`
-    
-  /* const contactIcon = jsx(
-    icons[contact.icon],
-    { sx: { color: "iconColor" } },
-    null
-  ) */
-    
-  return (
-    <div>
-      <div
-        sx={{
-          py: 3,
-          color: "headerText",
-          backgroundColor: "headerBackground",
-        }}
-      >
-        <header
-          sx={{
-            marginLeft: `auto`,
-            marginRight: `auto`,
-            maxWidth: rhythm(30),
-            px: [2, 4],
-            pt: 4,
-            pb: 2,
-          }}
-        >
-          <div sx={{
-            flex: 1,
-            display: "flex",
-            alignItems: "flex-end",
-          }}>
-            <h3
-              sx={{
-                mt: 0,
-                mb: 3,
-              }}
-            >
-              <Link
-                sx={{
-                  boxShadow: `none`,
-                  textDecoration: `none`,
-                  color: `logoColor`,
-                  "&:hover": {
-                    textDecoration: "none",
-                    color: "logoColor",
-                  },
-                }}
-                to={`/`}
-              >
-              <img src={MainLogo} alt="logo" sx={{marginBottom:0, width:90, height:90}}/>
-              </Link>
-            </h3>
-            <h1 sx={{ 
-              color: "iconColor"
-              }}
-            >
-              {data.site.siteMetadata.headerTitle}
-            </h1>
-          </div>
-          { location.pathname === rootPath && 
-            <p sx={{ pt: 2, pb: 2, mb: 2, mt: 2, fontSize: [2, 3] }}>
-              {data.site.siteMetadata.description}&nbsp;
-              <Link to="/contacto/"
-                sx={{ pt: 2, pb: 2, mb: 2, mt: 2, fontSize: [1.5, 2] }}>
-                {data.site.siteMetadata.contact.sentence}  
-              </Link>
-            </p>         
-          }
-          <SearchInput data={data}/>
-          
-        </header>
-      </div>
-      <div
-        style={{
-          background: "#F3F5F7",
-        }}
-      >
-        <main
-          sx={{
-            mx: `auto`,
-            maxWidth: rhythm(30),
-            px: [2, 4],
-            py: [3],
-          }}
-        >
-          {children}
-        </main>
-      </div>
-      <footer
-        sx={{
-          marginLeft: `auto`,
-          marginRight: `auto`,
-          maxWidth: rhythm(30),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-          textAlign: "center",
-          color: "footerTextColor",
-          fontSize: 1,
-        }}
-      >
-        <div
-          sx={{              
-            verticalAlign: 'center',
-            flex: 1,
-            display: "flex",
-            alignItems: "center",
-            justifyContent: ["flex-start", "center"]
-          }}
-        >
-          <img src={MainLogo} alt="logo" sx={{marginBottom:0, width:90, height:90}}/>
-          <div
-            sx={{
-              marginLeft: `40px`,
-            }}
-          >
-            <Link to="/contacto/" 
-            >Contactar</Link>
-          </div>
-        </div>
-        <div sx={{ mt: 2 }}>
-          Built with
-          {` `}
-          {/*
-            PLEASE DO NOT REMOVE THIS LINK.
-
-            A lot of unpaid time is spent on making and maintaining the 
-            center. Nothing is expected in return. Keeping this link here
-            is the only small thing asked in return. So please don't remove it.
-
-            You are amazing for keeping it here, thank you.
-          */}
-          <a
-            href="https://help.dferber.de"
-            target="_blank"
-            sx={{
-              color: "footerTextColor",
-              textDecoration: "underline",
-              "&:hover": {
-                color: "footerTextHoverColor",
-              },
-            }}
-          >
-            Dom's Help Center
-          </a>
-        </div>
-      </footer>
-    </div>
-  )
-
-}
-
-export default Layout
+export default SearchInput

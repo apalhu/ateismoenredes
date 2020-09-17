@@ -1,16 +1,17 @@
 module.exports = {
   siteMetadata: {
     title: `Ateísmo en Redes`,
+    headerTitle: `teísmo en Redes`,
     author: ``,
     // You'd normally use a description like
     // "Advice and answers by the MyCompany-Team"
-    description: `Listado de cuentas en redes sociales con el ateísmo como característica común`,
+    description: `Listado de cuentas en redes sociales con el ateísmo como característica común.`,
     siteUrl: `https://ateismoenred.es/`,
-    language: "en",
+    language: "es",
     texts: {
       allCollectionsText: "Secciones",
-      searchPlaceholderText: "Buscar preguntas…",
-      lastModifiedText: "Last edited",
+      searchPlaceholderText: "Buscas preguntas?...",
+      lastModifiedText: "Ültima edición",
       publishedOnText: "Publicado en",
       writtenByText: "Escrito por",
       articlesInCollectionZeroText: "artículos en esta sección",
@@ -18,6 +19,11 @@ module.exports = {
       articlesInCollectionTwoText: "artículos en esta sección",
       articlesInCollectionMultipleText: "artículos en esta sección",
     },
+    contact: {
+      sentence: `Si quieres constar en este listado, o modificar algo en tu descripción, envianos el formulario de contacto.`,
+      icon: 'FaHandsHelping',
+      formUrl: "http://endpoint.com"
+    }
   },
   mapping: {
     "MarkdownRemark.frontmatter.author": `AuthorsYaml`,
@@ -98,5 +104,6 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    
   ],
 }
