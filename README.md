@@ -1,9 +1,6 @@
 # Ateismoenredes
 
-
-TODO:
-* <https://pyrax.github.io/react-netlify-forms>. Lo usa [gatsby-theme-contact](https://github.com/Pyrax/gatsby-theme-contact)
-
+> Directorio de cuentas en redes sociales con el ateísmo como característica común.
 
 ## 🚀 Quick start
 Project built with `gatsby-starter-help-center`:
@@ -34,9 +31,8 @@ Project built with `gatsby-starter-help-center`:
 
     Open the `ateismoenredes` directory in your code editor of choice and edit `content/articles/welcome/index.md`. Save your changes and the browser will update in real time!
 
-## 🧐 What's inside?
+## Contenido
 
-A quick look at the most important files and directories you'll need to edit.
 
     .
     |____README.md
@@ -47,8 +43,6 @@ A quick look at the most important files and directories you'll need to edit.
     | |____second-article
     | | |____some-image.png
     | | |____index.md
-    |____assets
-    | |____favicon.png
     |____data
     | |____collections.yml
     | |____authors.yml
@@ -59,7 +53,7 @@ A quick look at the most important files and directories you'll need to edit.
 
 1.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.org/docs/gatsby-config/) for more detail).
 
-2.  **`content/articles`**: This is the folder where you'll place your articles.
+2.  **`content/`**: This is the folder where you'll place your articles.
 
 3.  **`data/collections.yml`**: This file defines the collections of your help center. Each article will belong to one collection. A collection consists of many articles. A collection can have different sections which its articles may belong to.
 
@@ -75,15 +69,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-## 💫 Examples
-
-
-
-- This repositorys docs itself at [help.dferber.de](https://help.dferber.de/)
-- [katakata.my](https://katakata.my/)
-- [help.tugify.com](https://help.tugify.com/)
-- [help.simplimail.co](https://help.simplimail.co/)
-- [support.bikecomparator.com](https://support.bikecomparator.com/)
-- [world-help.netlify.app](https://world-help.netlify.app/)
-
-*...you can open a PR and add your project to this list once you're up and running*

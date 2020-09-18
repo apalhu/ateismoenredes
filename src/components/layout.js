@@ -333,7 +333,20 @@ function Layout(props) {
             justifyContent: ["flex-start", "center"]
           }}
         >
-          <img src={MainLogo} alt="logo" sx={{marginBottom:0, width:90, height:90}}/>
+          <Link
+            sx={{
+              boxShadow: `none`,
+              textDecoration: `none`,
+              color: `logoColor`,
+              "&:hover": {
+                textDecoration: "none",
+                color: "logoColor",
+              },
+            }}
+            to={`/`}
+          >
+            <img src={MainLogo} alt="logo" sx={{marginBottom:0, width:90, height:90}}/>
+          </Link>
           <div
             sx={{
               marginLeft: `40px`,

@@ -77,5 +77,11 @@ export default {
       marginLeft: "1.75rem",
     },
     // more styles can be added as needed
+    buttons: {
+      primary: {
+        color: "red",
+        bg: "iconColor",
+      }
+    }
   },
 }
