@@ -1,7 +1,7 @@
 ---
 title: Bienvenido
 date: 2020-09-12
-author: bert
+author: aer
 modifiedDate: null
 description: "Bienvenida y explicación del cuento."
 ---

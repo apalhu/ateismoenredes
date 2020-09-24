@@ -1,7 +1,7 @@
 ---
 title: Otro Artículo
 date: 2020-09-12
-author: bert
+author: apalhu
 modifiedDate: 2020-09-13
 description: "Sobre cualquier cosa"
 ---
