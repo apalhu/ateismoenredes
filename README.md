@@ -2,6 +2,9 @@
 
 > Directorio de cuentas en redes sociales con el ateísmo como característica común.
 
+## Editor
+* [netlifycms](https://www.netlifycms.org/docs/gatsby/)
+
 ## 🚀 Quick start
 Project built with `gatsby-starter-help-center`:
 
