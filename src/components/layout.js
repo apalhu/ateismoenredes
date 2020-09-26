@@ -285,14 +285,16 @@ function Layout(props) {
             </h1>
           </div>
           { location.pathname === rootPath && 
+            <>
             <div sx={{ pt: 2, pb: 2, mb: 2, mt: 2, fontSize: [2, 3] }}>
               {data.site.siteMetadata.description}&nbsp;
-              <br/>
-              <Link to="/contacto/"
-                sx={{ pt: 2, pb: 2, mb: 2, mt: 2, fontSize: [1.5, 2] }}>
-                {data.site.siteMetadata.contact.sentence}  
-              </Link>
             </div>         
+            <div sx={{ pt: 2, pb: 2, mb: 2, mt: 2, fontSize: [2, 3] }}>
+              <Link to="/contacto/">
+                {data.site.siteMetadata.contact.sentence}
+              </Link>
+            </div>
+            </>        
           }
           {/* 
           <SearchInput data={data}/>
