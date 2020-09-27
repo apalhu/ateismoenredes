@@ -385,6 +385,14 @@ function Layout(props) {
           >
             Dom's Help Center
           </a>
+          . Patrocinado por {` `}
+          <a
+            href="https://www.youtube.com/channel/UCNwhHxz-xUv07Xq8O9IqxVg"
+            target="_blank"
+          >
+            Razón o fe
+          </a>
+          .
         </div>
       </footer>
     </div>

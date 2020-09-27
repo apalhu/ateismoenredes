@@ -5,5 +5,198 @@ modifiedDate: null
 description: 
 ---
 
+### [Ateísmo Brillante](https://twitter.com/AteismoBrillant)
+154.000 tuits sobre ateísmo y mucho más...
 
-<div id="comp-k4jqhc4p2" class="_1Z_nJ" data-testid="richTextElement"><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://twitter.com/AteismoBrillant" target="_blank" rel="nofollow noopener">Ateísmo Brillante</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">154.000 tuits sobre ateísmo y mucho más...</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://twitter.com/elnocturno" target="_blank" rel="nofollow noopener">Mauricio Schwarz</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ateísmo, escepticismo, sociedad, política y música.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/jvicenteprieto" target="_blank" rel="nofollow noopener">Vicente Prieto</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Presidente de&nbsp;<span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/cescept" target="_blank" rel="nofollow noopener">Círculo Escéptico</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/SchrodingerGata" target="_blank" rel="nofollow noopener">Rocío Vidal (La gata de Schrödinger)</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ciencia, pensamiento crítico... y cualquier cosa!</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/AteoyAgnostico" target="_blank" rel="nofollow noopener">Soy ateo</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Cuanto más sé de las religiones, menos creo en ellas.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/VaryIngweion" target="_blank" rel="nofollow noopener">Vary Ingweion</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Biólogo, doctorando, divulgador, escéptico.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><br></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/NaoBehache" target="_blank" rel="nofollow noopener">Nao NEW ACCOUNT</a></span></span></span>&nbsp; &nbsp; &nbsp;&nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Fundora de Asociación de Ex-musulmanes/as de España.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://twitter.com/ThinkTwiceShow" target="_blank" rel="nofollow noopener">Think Twice Show</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Investigador y divulgador. Pensamiento crítico, teoría de juegos, economía del comportamiento y experimental</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><span style="text-decoration:underline"><span class="wixGuard">​</span></span></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><span style="text-decoration:underline"><span style="text-decoration:underline"><a href="https://twitter.com/SdeStendhal" target="_blank" rel="nofollow noopener">Ignacio Crespo</a></span></span></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Médico, divulgador cientifico.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><span style="text-decoration:underline"><span class="wixGuard">​</span></span></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><span style="text-decoration:underline"><span style="text-decoration:underline"><a href="https://twitter.com/exmusulmanes_as" target="_blank" rel="nofollow noopener">Ex-musulmanes/as de España</a></span></span></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Asociación de Ex-musulmanes/as de España.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/ProtonC1" target="_blank" rel="nofollow noopener">Protón C</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Divulgador, escéptico.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/Shora" target="_blank" rel="nofollow noopener">Esther Samper</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Médica, divulgadora.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><span style="text-decoration:underline"><a href="https://twitter.com/fcuartero" target="_blank" rel="nofollow noopener">F</a></span></span></span></span><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><span style="text-decoration:underline"><a href="https://twitter.com/fcuartero" target="_blank" rel="nofollow noopener">ernando Cuartero</a></span></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ciencia, escepticismo y ateísmo</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="text-decoration:underline"><span style="text-decoration:underline"><span class="wixGuard">​</span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="text-decoration:underline"><span style="text-decoration:underline"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/SATANASELMEJOR" target="_blank" rel="nofollow noopener">Satanás</a></span></span></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">¡El mismísimo Satanás en Twitter!</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="text-decoration:underline"><span style="text-decoration:underline"><span class="wixGuard">​</span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><span style="text-decoration:underline"><span style="text-decoration:underline"><a href="https://twitter.com/JLCiencia" target="_blank" rel="nofollow noopener">La Ciencia no es cuestión de fe</a></span></span></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">No hace falta fe para creer que la Ciencia es el método más fiable de conocer el mundo.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/ClementeNovella" target="_blank" rel="nofollow noopener">Clemente García Novella</a></span></span></span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ateísmo y más. Autor del libro "¿Dónde está Dios, papá?"</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="text-decoration:underline"><a href="https://twitter.com/ArgoffTV" target="_blank" rel="nofollow noopener"><span style="font-style:italic"><span style="font-weight:bold">Mario Adalid</span></span></a></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Argoff TV. Pensamiento crítico, escpticismo</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><span style="text-decoration:underline"><span style="text-decoration:underline"><a href="https://twitter.com/Excreyente" target="_blank" rel="nofollow noopener">Ex-Creyente</a></span></span></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Evidencialista y ex-creyente; ex-católico, ex-New Age y exconspiranoico.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="text-decoration:underline"><span style="text-decoration:underline"><span class="wixGuard">​</span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="text-decoration:underline"><a href="https://twitter.com/FalaciaDelDia" target="_blank" rel="nofollow noopener"><span style="font-style:italic"><span style="font-weight:bold">La Falacia Del Día</span></span></a></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Divertimento sobre la mala argumentación.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="text-decoration:underline"><span style="text-decoration:underline"><span class="wixGuard">​</span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://twitter.com/piensalibr3" target="_blank" rel="nofollow noopener">Piensa Libre</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Librepensamiento, ateísmo.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="text-decoration:underline"><span class="wixGuard">​</span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><span style="text-decoration:underline"><a href="https://twitter.com/tonofolgado" target="_blank" rel="nofollow noopener">Arreglao!!!</a></span></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ateísmo ingenioso.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><span style="text-decoration:underline"><span class="wixGuard">​</span></span></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/yobogotana" target="_blank" rel="nofollow noopener">Dios es una mala idea</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ateísmo, reflexiones.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/Razonofe" target="_blank" rel="nofollow noopener">Razón o fe</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ateísmo, racionalismo.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/AATEOSBTA" target="_blank" rel="nofollow noopener">Asociación de Ateos de Bogotá</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Trabaja por el Estado laico y los derechos humanos.&nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://twitter.com/SociedadBeagle" target="_blank" rel="nofollow noopener">Sociedad Humanista Beagle</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ciencia, razón y laicismo.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="text-decoration:underline"><span class="wixGuard">​</span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="text-decoration:underline"><a href="https://twitter.com/comunidadateard" target="_blank" rel="nofollow noopener"><span style="font-weight:bold"><span style="font-style:italic">Ateos Dominicanos</span></span></a></span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Comunidad Atea Dominicana, en una sociedad donde casi un 100% cree en espíritus.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="text-decoration:underline"><a href="https://twitter.com/MienteQuien" target="_blank" rel="nofollow noopener"><span style="font-style:italic"><span style="font-weight:bold">Quien Diablos Miente</span></span></a></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Religión, política y diversión.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="text-decoration:underline"><span class="wixGuard">​</span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/ateocracia" target="_blank" rel="nofollow noopener">Ateocracia</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Pensamiento crítico, laicismo, racionalismo.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://twitter.com/Ateo_Andaluz" target="_blank" rel="nofollow noopener">El Ateo</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ateo de los 2.700 dioses creados por el hombre.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/mogrosso78" target="_blank" rel="nofollow noopener">Mauricio Ordóñez</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ateo - Librepensador - Humanista - Laico</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/ahalhn" target="_blank" rel="nofollow noopener">Honduras Atea</a></span></span></span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ateos, agnósticos y librepensadores de Honduras.&nbsp; &nbsp;&nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/LibrePensador_0" target="_blank" rel="nofollow noopener">Libre Pensador</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ateos - Agnósticos - Libres Pensadores - Humanistas</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span>​</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/OmarAlos" target="_blank" rel="nofollow noopener">Omar Alós</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Pensamiento crítico, ciencia, ateísmo.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/DiosExisteDonde" target="_blank" rel="nofollow noopener">¿Dios existe? ¿Dónde?</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Entretenimiento Ateo.&nbsp;Si sientes que ofendemos tu creencia, no entres.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/Un_Ateo_Dice" target="_blank" rel="nofollow noopener">Un Ateo Dice</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ateísmo Ácido.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/pambish" target="_blank" rel="nofollow noopener">Paola Nieto Vásquez</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ateísmo, laicismo y sociedad.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/Coralesreal" target="_blank" rel="nofollow noopener">Caballero de la noche</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ateísmo radical</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><a href="https://twitter.com/747Definitivo" target="_blank" rel="nofollow noopener"><span style="text-decoration:underline">Matheus Amorim</span></a></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Escepticismo y sociedad</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/DaniSpinosaurus" target="_blank" rel="nofollow noopener">Dani la Spinosaurus</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Divulgación sobre biología y paleontología.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://twitter.com/dood_med" target="_blank" rel="nofollow noopener">Andrés Aragoneses&nbsp;</a></span>​</span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ciencia, escepticismo.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="text-decoration:underline"><span class="wixGuard">​</span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/Noragueda" target="_blank" rel="nofollow noopener">César Noragueda</a></span></span></span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Crítico, escritor, ateo.&nbsp; &nbsp; &nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/MilagroError" target="_blank" rel="nofollow noopener">Milagro y error</a></span></span></span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ciencia y ​pensamiento crítico.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/bisonfou" target="_blank" rel="nofollow noopener">Le bison fou</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Escéptico, médico, historiador.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="text-decoration:underline"><a href="https://twitter.com/Oscar_VOLMAE" target="_blank" rel="nofollow noopener"><span style="font-weight:bold"><span style="font-style:italic">Óscar Pérez Soler</span></span></a></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Psicólogo, pensamiento crítico.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/daniscoping" target="_blank" rel="nofollow noopener">Dani L Huertas</a></span>&nbsp;</span></span> &nbsp; &nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ciencia sorprendente, escepticismo.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/Hondoncity" target="_blank" rel="nofollow noopener">Frenando</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ciencia, escepticismo y sociedad.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/yolitaroja" target="_blank" rel="nofollow noopener">Rola Pagana y anarquista</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Ateísmo y sociedad.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://twitter.com/_The_Mr_J_" target="_blank" rel="nofollow noopener">The Mr. J</a></span></span></span>&nbsp; &nbsp; &nbsp;&nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15">Blasfemias, humor negro y más...</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_15"><span class="wixGuard">​</span></span></h3>
+---
+### [Mauricio Schwarz](https://twitter.com/elnocturno)
+Ateísmo, escepticismo, sociedad, política y música.
+
+---
+### [Vicente Prieto](https://twitter.com/jvicenteprieto)
+Presidente de [Círculo Escéptico](https://twitter.com/cescept)
+
+---
+### [Rocío Vidal (La gata de Schrödinger)](https://twitter.com/SchrodingerGata)
+Ciencia, pensamiento crítico... y cualquier cosa!
+
+---
+### [Soy ateo](https://twitter.com/AteoyAgnostico)
+Cuanto más sé de las religiones, menos creo en ellas.
+
+---
+### [Vary Ingweion](https://twitter.com/VaryIngweion)
+Biólogo, doctorando, divulgador, escéptico.
+
+---
+### [Nao NEW ACCOUNT](https://twitter.com/NaoBehache)
+Fundora de Asociación de Ex-musulmanes/as de España.  
+
+---
+### [Think Twice Show](https://twitter.com/ThinkTwiceShow)
+Investigador y divulgador. Pensamiento crítico, teoría de juegos, economía del comportamiento y experimental.
+
+---
+### [Ignacio Crespo](https://twitter.com/SdeStendhal)
+Médico, divulgador cientifico.
+
+---
+### [Ex-musulmanes/as de España](https://twitter.com/exmusulmanes_as)
+Asociación de Ex-musulmanes/as de España.
+
+---
+### [Protón C](https://twitter.com/ProtonC1)
+Divulgador, escéptico.
+
+---
+### [Esther Samper](https://twitter.com/Shora)
+Médica, divulgadora.
+
+---
+### [Fernando Cuartero](https://twitter.com/fcuartero)
+Ciencia, escepticismo y ateísmo.
+
+---
+### [Satanás](https://twitter.com/SATANASELMEJOR)
+¡El mismísimo Satanás en Twitter!
+
+---
+### [La Ciencia no es cuestión de fe](https://twitter.com/JLCiencia)
+No hace falta fe para creer que la Ciencia es el método más fiable de conocer el mundo.
+
+---
+### [Clemente García Novella](https://twitter.com/ClementeNovella)
+Ateísmo y más. Autor del libro "¿Dónde está Dios, papá?".
+
+---
+### [Mario Adalid](https://twitter.com/ArgoffTV)
+Argoff TV. Pensamiento crítico, escpticismo.
+
+---
+### [Ex-Creyente](https://twitter.com/Excreyente)
+Evidencialista y ex-creyente; ex-católico, ex-New Age y exconspiranoico.
+
+---
+### [La Falacia Del Día](https://twitter.com/FalaciaDelDia)
+Divertimento sobre la mala argumentación.
+
+---
+### [Piensa Libre](https://twitter.com/piensalibr3)
+Librepensamiento, ateísmo.
+
+---
+### [Arreglao!!!](https://twitter.com/tonofolgado)
+Ateísmo ingenioso.
+
+---
+### [Dios es una mala idea](https://twitter.com/yobogotana)
+Ateísmo, reflexiones.
+
+---
+### [Razón o fe](https://twitter.com/Razonofe)
+Ateísmo, racionalismo.
+
+---
+### [Asociación de Ateos de Bogotá](https://twitter.com/AATEOSBTA)
+Trabaja por el Estado laico y los derechos humanos.
+
+---
+### [Sociedad Humanista Beagle](https://twitter.com/SociedadBeagle)
+Ciencia, razón y laicismo.
+
+---
+### [Ateos Dominicanos](https://twitter.com/comunidadateard)
+Comunidad Atea Dominicana, en una sociedad donde casi un 100% cree en espíritus.
+
+---
+### [Quien Diablos Miente](https://twitter.com/MienteQuien)
+Religión, política y diversión.
+
+---
+### [Ateocracia](https://twitter.com/ateocracia)
+Pensamiento crítico, laicismo, racionalismo.
+
+---
+### [El Ateo](https://twitter.com/Ateo_Andaluz)
+Ateo de los 2.700 dioses creados por el hombre.
+
+---
+### [Mauricio Ordóñez](https://twitter.com/mogrosso78)
+Ateo - Librepensador - Humanista - Laico
+
+---
+### [Honduras Atea](https://twitter.com/ahalhn)
+Ateos, agnósticos y librepensadores de Honduras.
+
+---
+### [Libre Pensador](https://twitter.com/LibrePensador_0)
+Ateos - Agnósticos - Libres Pensadores - Humanistas.
+
+---
+### [Omar Alós](https://twitter.com/OmarAlos)
+Pensamiento crítico, ciencia, ateísmo.
+
+---
+### [¿Dios existe? ¿Dónde?](https://twitter.com/DiosExisteDonde)
+Entretenimiento Ateo. Si sientes que ofendemos tu creencia, no entres.
+
+---
+### [https://twitter.com/OmarAlos](Omar Alós)
+Pensamiento crítico, ciencia, ateísmo.
+
+---
+### [Un Ateo Dice](https://twitter.com/Un_Ateo_Dice)
+Ateísmo Ácido.
+
+---
+### [Paola Nieto Vásquez](https://twitter.com/pambish)
+Ateísmo, laicismo y sociedad.
+
+---
+### [Caballero de la noche](https://twitter.com/Coralesreal)
+Ateísmo radical.
+
+---
+### [Matheus Amorim](https://twitter.com/747Definitivo)
+Escepticismo y sociedad.
+
+---
+### [Dani la Spinosaurus](https://twitter.com/DaniSpinosaurus)
+Divulgación sobre biología y paleontología.
+
+---
+### [Andrés Aragoneses](https://twitter.com/dood_med)
+Ciencia, escepticismo.
+
+---
+### [César Noragueda](https://twitter.com/Noragueda)
+Crítico, escritor, ateo.
+
+---
+### [Milagro y error](https://twitter.com/MilagroError)
+Ciencia y ​pensamiento crítico.
+
+---
+### [Le bison fou](https://twitter.com/bisonfou)
+Escéptico, médico, historiador.
+
+---
+### [Óscar Pérez Soler](https://twitter.com/Oscar_VOLMAE)
+Psicólogo, pensamiento crítico.
+
+---
+### [Dani L Huertas](https://twitter.com/daniscoping)
+Ciencia sorprendente, escepticismo.
+
+---
+### [Frenando](https://twitter.com/Hondoncity)
+Ciencia, escepticismo y sociedad.
+
+---
+### [Rola Pagana y anarquista](https://twitter.com/yolitaroja)
+Ateísmo y sociedad.
+
+---
+### [The Mr. J](https://twitter.com/_The_Mr_J_)
+Blasfemias, humor negro y más...
+

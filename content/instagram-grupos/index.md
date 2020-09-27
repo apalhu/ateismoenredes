@@ -5,8 +5,99 @@ modifiedDate: null
 description: 
 ---
 
-<div id="comp-k83b2rt17" class="_1Z_nJ" data-testid="richTextElement"><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://www.instagram.com/libres.pensadores/" target="_blank" rel="nofollow noopener">Libres.pensadores</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Humor Común, Ateo, Filosófico y Politico.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://www.instagram.com/__librepensador__/" target="_blank" rel="nofollow noopener">Libre Pensador</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Ateos - Agnósticos - Libres Pensadores - Escépticos - Deistas - Panteistas - Nihilistas</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://www.instagram.com/jesusteobserva/" target="_blank" rel="nofollow noopener">Jesús te observa</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Ateísmo, pensamiento crítico. Sin miedos de religiones o dioses.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://www.instagram.com/pensadoresss/" target="_blank" rel="nofollow noopener">Pensadores ateos</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Pensamiento libre, no dependiente&nbsp;de&nbsp;ideologías, religiones o partidos políticos.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://www.instagram.com/ateachapina/" target="_blank" rel="nofollow noopener">Atea Chapina</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Ateísmo, ciencia, blasfemias, librepensamiento.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://www.instagram.com/ateos_agnosticosdominicanos/" target="_blank" rel="nofollow noopener">Ateos Agnósticos Dominicanos</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Pensamiento crítico, ciencia y derechos humanos.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://www.instagram.com/unateodice/" target="_blank" rel="nofollow noopener">Un ateo dice</a></span></span></span>&nbsp; &nbsp;&nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Ateísmo sarcástico.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://www.instagram.com/ateos_de_nacimiento/" target="_blank" rel="nofollow noopener">Ateos de Nacimiento</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Ateísmo, religiones/sectas, supersticiones, noticias científicas</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://www.instagram.com/humorateo/" target="_blank" rel="nofollow noopener">Humor Ateo</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Cuenta favorita de denunciantes religiosos...</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://www.instagram.com/sociedadhmsbeagle/" target="_blank" rel="nofollow noopener">Sociedad Humanista Beagle</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Ciencia,&nbsp;razón y&nbsp;laicismo</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="text-decoration:underline"><span style="font-style:italic"><span style="font-weight:bold"><span class="wixGuard">​</span></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="text-decoration:underline"><span style="font-style:italic"><span style="font-weight:bold"><a href="https://www.instagram.com/ateismomilitante/" target="_blank" rel="nofollow noopener">#AteísmoMilitante</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Ateos, agnósticos, escépticos.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://www.instagram.com/piensalibr3/" target="_blank" rel="nofollow noopener">Piensa Libre</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Librepensamiento, ateísmo.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><span class="wixGuard">​</span></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><span style="text-decoration:underline"><a href="https://www.instagram.com/ateismoylogica/" target="_blank" rel="nofollow noopener">Ateo lógica</a></span></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Razonar, pensar, saber, dudar.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://www.instagram.com/ateismo.argento/" target="_blank" rel="nofollow noopener">Ateísmo Argento</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Ateísmo desde Argentina</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="text-decoration:underline"><span class="wixGuard">​</span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://www.instagram.com/razonofe/" target="_blank" rel="nofollow noopener">Razón o fe</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Ateísmo, racionalismo.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="text-decoration:underline"><span class="wixGuard">​</span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://www.instagram.com/ateocracia/" target="_blank" rel="nofollow noopener">Ateocracia</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Pensamiento crítico, laicismo, racionalismo.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="text-decoration:underline"><a href="https://www.instagram.com/menteslibresss/" target="_blank" rel="nofollow noopener"><span style="font-weight:bold"><span style="font-style:italic">Mentes Libres</span></span></a></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Pensamiento libre de dogmas.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://www.instagram.com/libre__pensamiento/" target="_blank" rel="nofollow noopener">Abriendo los ojos</a></span></span></span>&nbsp; &nbsp; &nbsp;&nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Pensamiento crítico</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-style:italic"><span style="font-weight:bold"><span style="text-decoration:underline"><a href="https://www.instagram.com/generacion_atea/" target="_blank" rel="nofollow noopener">Generación atea</a></span></span></span>&nbsp; &nbsp; &nbsp;&nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">La fe&nbsp;supone el abandono de la razón y el espíritu crítico.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">&nbsp; &nbsp; &nbsp;&nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="text-decoration:underline"><a href="https://www.instagram.com/secular_mente/" target="_blank" rel="nofollow noopener"><span style="font-weight:bold"><span style="font-style:italic">SecularMente</span></span></a></span>&nbsp; &nbsp; &nbsp;&nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Promoviendola vida secular. Pro-Ciencia. Pro-Lógica.&nbsp; &nbsp; &nbsp; &nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://www.instagram.com/_libre.mente_/" target="_blank" rel="nofollow noopener">Libre Pensamiento</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Ciencia, ateísmo, filosofía.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://www.instagram.com/ateismopuro/" target="_blank" rel="nofollow noopener">Ateísmo Puro</a></span></span></span>&nbsp; &nbsp; &nbsp; &nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Reflexiones sobre ateísmo.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://www.instagram.com/jckastaneda/" target="_blank" rel="nofollow noopener">@jckastaneda</a></span></span></span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Ateísmo y reflexiones en general.</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span class="wixGuard">​</span></span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11"><span style="font-weight:bold"><span style="font-style:italic"><span style="text-decoration:underline"><a href="https://www.instagram.com/apostat_oposit_/" target="_blank" rel="nofollow noopener">Laps ego non sum</a></span></span></span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></h3><h3 class="font_9" style="line-height:1.875em;font-size:15px"><span class="color_11">Apostasía, crítica a la religión.</span></h3>
+### [Libres.pensadores](https://www.instagram.com/libres.pensadores/)
+Humor Común, Ateo, Filosófico y Politico.
 
+---
 
+### [Libre Pensador](https://www.instagram.com/__librepensador__/)
+Ateos - Agnósticos - Libres Pensadores - Escépticos - Deistas - Panteistas - Nihilistas
 
-</div>
+---
+### [Jesús te observa](https://www.instagram.com/jesusteobserva/)
+Ateísmo, pensamiento crítico. Sin miedos de religiones o dioses.
+
+---
+### [Pensadores ateos](https://www.instagram.com/pensadoresss/)
+Pensamiento libre, no dependiente de ideologías, religiones o partidos políticos.
+
+---
+### [Atea Chapina](https://www.instagram.com/ateachapina/)
+Ateísmo, ciencia, blasfemias, librepensamiento.
+
+---
+### [Ateos Agnósticos Dominicanos](https://www.instagram.com/ateos_agnosticosdominicanos/)
+Pensamiento crítico, ciencia y derechos humanos.
+
+---
+### [Un ateo dice](https://www.instagram.com/unateodice/)
+Ateísmo sarcástico.
+
+---
+### [Ateos de Nacimiento](https://www.instagram.com/ateos_de_nacimiento/)
+Ateísmo, religiones/sectas, supersticiones, noticias científicas.
+
+---
+### [Humor Ateo](https://www.instagram.com/humorateo/)
+Cuenta favorita de denunciantes religiosos...
+
+---
+### [Sociedad Humanista Beagle](https://www.instagram.com/sociedadhmsbeagle/)
+Ciencia, razón y laicismo
+
+---
+### [#AteísmoMilitante](https://www.instagram.com/ateismomilitante/)
+Ateos, agnósticos, escépticos.
+
+---
+### [Piensa Libre](https://www.instagram.com/piensalibr3/)
+Librepensamiento, ateísmo.
+
+---
+### [Ateo lógica](https://www.instagram.com/ateismoylogica/)
+Razonar, pensar, saber, dudar.
+
+---
+### [Ateísmo Argento](https://www.instagram.com/ateismo.argento/)
+Ateísmo desde Argentina
+
+---
+### [Razón o fe](https://www.instagram.com/razonofe/)
+Ateísmo, racionalismo.
+
+---
+### [Ateocracia](https://www.instagram.com/ateocracia/)
+Pensamiento crítico, laicismo, racionalismo.
+
+---
+### [Mentes Libres](https://www.instagram.com/menteslibresss/)
+Pensamiento libre de dogmas.
+
+---
+### [Abriendo los ojos](https://www.instagram.com/libre__pensamiento/)
+Pensamiento crítico.
+
+---
+### [Generación atea](https://www.instagram.com/generacion_atea/)
+La fe supone el abandono de la razón y el espíritu crítico.
+
+---
+### [SecularMente](https://www.instagram.com/secular_mente/)
+Promoviendola vida secular. Pro-Ciencia. Pro-Lógica.
+
+---
+### [Libre Pensamiento](https://www.instagram.com/_libre.mente_/)
+Ciencia, ateísmo, filosofía.
+
+---
+### [Ateísmo Puro](https://www.instagram.com/ateismopuro/)
+Reflexiones sobre ateísmo.
+
+---
+### [@jckastaneda](https://www.instagram.com/jckastaneda/)
+Ateísmo y reflexiones en general.
+
+---
+### [Laps ego non sum](https://www.instagram.com/apostat_oposit_/)
+Apostasía, crítica a la religión.
+
