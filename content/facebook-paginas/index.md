@@ -8,3 +8,7 @@ description:
 Ateísmo, Humanismo Secular, Escepticismo, Ecología, Defensa de Derechos, Equidad y Pensamiento Crítico.
 
 ---
+### [Ateístas de Puerto Rico](https://www.facebook.com/ateistaspr/)
+Organización de activismo ateo sin fines de lucro.
+
+---
