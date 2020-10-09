@@ -65,7 +65,7 @@ description:
 <p>&nbsp;</p>
 
 ### [Razón o fe](https://www.youtube.com/channel/UCNwhHxz-xUv07Xq8O9IqxVg)
-> Entrevistas sobre razón, fe, ciencia y religión.
+> Entrevistas sobre razón, fe, ciencia y religión, ahora en directo y con preguntas del público.
 
 <!-- ATEO vs SACERDOTE: ¿Por qué creer en tu dios? -->
 `youtube: https://www.youtube.com/watch?v=Lo3bX9BXnfc`
@@ -100,3 +100,11 @@ description:
 
 <!-- Refutación a un dios perfecto. Dios simplemente no existe -->
 `youtube: https://www.youtube.com/watch?v=YlOa8D-gkFM&t=7s`
+
+<p>&nbsp;</p>
+
+### [Herejes: El podcast](https://www.youtube.com/channel/UCufpgYibos8dDFDms5SHxJg)
+> Un espacio para conocer y discutir con humor sobre historia, ciencia, filosofía, actualidad, cultura, pensamiento crítico.
+
+<!-- Con Carlos Ballarta: discriminación y teología en calzones -->
+`youtube:https://www.youtube.com/watch?v=pka1TcRWqwc`
