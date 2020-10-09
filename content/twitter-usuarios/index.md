@@ -40,7 +40,7 @@ description:
 * [Burro Benjamín](https://twitter.com/Burro_Benjamin)
 * [Carlos Andrés](https://twitter.com/Carlos__AndresR)
 * [Carlos Millán](https://twitter.com/profesormillan)
-* [Carlucho](https://twitter.com/carluchogovan)
+* [Carlucho](https://twitter.com/carluchosoyyo)
 * [Carmen Sánchez](https://twitter.com/Cerverella)
 * [Carmen Soriano](https://twitter.com/yomisma_OP)
 * [Ce Hache](https://twitter.com/majillonda)
