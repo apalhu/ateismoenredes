@@ -96,7 +96,7 @@ description:
 <p>&nbsp;</p>
 
 ### [Críticas de un ateo normal](https://www.youtube.com/channel/UCQ_7H55KXLM5BCFx5vSuuDA)
->Análisis y crítica de las diferentes cosmovisiones.
+> Análisis y crítica de las diferentes cosmovisiones.
 
 <!-- Refutación a un dios perfecto. Dios simplemente no existe -->
 `https://www.youtube.com/watch?v=YlOa8D-gkFM&t=7s`
