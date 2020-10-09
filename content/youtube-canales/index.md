@@ -99,4 +99,4 @@ description:
 > Análisis y crítica de las diferentes cosmovisiones.
 
 <!-- Refutación a un dios perfecto. Dios simplemente no existe -->
-`https://www.youtube.com/watch?v=YlOa8D-gkFM&t=7s`
+`youtube: https://www.youtube.com/watch?v=YlOa8D-gkFM&t=7s`
