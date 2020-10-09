@@ -28,3 +28,8 @@ Página atea, anticlerical.
 Esta página no representa el ateísmo de nadie.
 
 ---
+
+### [Activismo Ateo MX](https://www.facebook.com/ActivismoAteoMX)
+Somos ateos comprometidos con los ideales Ilustrados. Hacemos activismo y hablamos de diversos temas, no exclusivamente sobre ateísmo y laicismo.
+
+---
