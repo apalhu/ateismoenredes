@@ -29,8 +29,12 @@ Cuanto más sé de las religiones, menos creo en ellas.
 Biólogo, doctorando, divulgador, escéptico.
 
 ---
-### [Nao NEW ACCOUNT](https://twitter.com/NaoBehache)
-Fundora de Asociación de Ex-musulmanes/as de España.  
+### [Nao](https://twitter.com/Naobhch)
+Fundadora de Asociación de Ex-musulmanes/as de España.  
+
+---
+### [Óscar Teixidó](https://twitter.com/Oscar_Teix)
+Revisor filosófico de material en divulgación y escepticismo
 
 ---
 ### [Think Twice Show](https://twitter.com/ThinkTwiceShow)
@@ -135,6 +139,12 @@ Ateos - Agnósticos - Libres Pensadores - Humanistas.
 ---
 ### [Omar Alós](https://twitter.com/OmarAlos)
 Pensamiento crítico, ciencia, ateísmo.
+
+---
+### [Luis Alberto](https://twitter.com/luis_asguard)
+Abog. Ateo y agnóstico, pro laicismo, pro humanismo. 
+No creo en ningún culto o sistema doblegador. 
+Derecho, ciencia y razón.
 
 ---
 ### [¿Dios existe? ¿Dónde?](https://twitter.com/DiosExisteDonde)
