@@ -141,8 +141,9 @@ Pensamiento crítico, ciencia, ateísmo.
 Entretenimiento Ateo. Si sientes que ofendemos tu creencia, no entres.
 
 ---
-### [https://twitter.com/OmarAlos](Omar Alós)
-Pensamiento crítico, ciencia, ateísmo.
+### [Retuiteando lo que pillo](https://twitter.com/ConEvidencias)
+Ciencia, Libertad de expresión, Sátira.
+Contra las pseudociencias y supersticiones.
 
 ---
 ### [Un Ateo Dice](https://twitter.com/Un_Ateo_Dice)
@@ -200,3 +201,10 @@ Ateísmo y sociedad.
 ### [The Mr. J](https://twitter.com/_The_Mr_J_)
 Blasfemias, humor negro y más...
 
+---
+### [Apostasía Mexicana](https://twitter.com/ApostasiaM)
+Grupo dedicaco a compartir información relacionada con la apostasía en México. Comparte tus experiencias, dudas o cualquier tipo de información.
+
+---
+
+---

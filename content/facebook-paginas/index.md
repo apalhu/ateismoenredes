@@ -33,3 +33,8 @@ Esta página no representa el ateísmo de nadie.
 Somos ateos comprometidos con los ideales Ilustrados. Hacemos activismo y hablamos de diversos temas, no exclusivamente sobre ateísmo y laicismo.
 
 ---
+
+### [Apostasía Mexicana](https://www.facebook.com/Apostasiamexicana/)
+Grupo dedicaco a compartir información relacionada con la apostasía en México. Comparte tus experiencias, dudas o cualquier tipo de información.
+
+---
