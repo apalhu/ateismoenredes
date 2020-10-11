@@ -18,6 +18,10 @@ Ateos - Agnósticos - Libres Pensadores - Escépticos - Deistas - Panteistas - N
 Ateísmo, pensamiento crítico. Sin miedos de religiones o dioses.
 
 ---
+### [SecularMente](https://www.instagram.com/secular_mente/)
+Promoviendola vida secular. Pro-Ciencia. Pro-Lógica.
+
+---
 ### [Pensadores ateos](https://www.instagram.com/pensadoresss/)
 Pensamiento libre, no dependiente de ideologías, religiones o partidos políticos.
 
@@ -66,6 +70,14 @@ Ateísmo desde Argentina
 Ateísmo, racionalismo.
 
 ---
+### [El ateo irreverente](https://www.instagram.com/el_ateo_irreverente/)
+Ateísmo irreverente.
+
+---
+### [Herejes: El Podcast](https://www.instagram.com/herejes_elpodcast/)
+Podcast que respeta la libre indagación, la actitud abierta y la búsqueda de las ideas por lo que valen en sí mismas.
+
+---
 ### [Ateocracia](https://www.instagram.com/ateocracia/)
 Pensamiento crítico, laicismo, racionalismo.
 
@@ -80,10 +92,6 @@ Pensamiento crítico.
 ---
 ### [Generación atea](https://www.instagram.com/generacion_atea/)
 La fe supone el abandono de la razón y el espíritu crítico.
-
----
-### [SecularMente](https://www.instagram.com/secular_mente/)
-Promoviendola vida secular. Pro-Ciencia. Pro-Lógica.
 
 ---
 ### [Libre Pensamiento](https://www.instagram.com/_libre.mente_/)

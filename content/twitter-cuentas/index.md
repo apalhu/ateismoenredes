@@ -34,7 +34,7 @@ Fundadora de Asociación de Ex-musulmanes/as de España.
 
 ---
 ### [Óscar Teixidó](https://twitter.com/Oscar_Teix)
-Revisor filosófico de material en divulgación y escepticismo
+Revisor filosófico de material en divulgación y escepticismo. Tecnólogo agroalimentario.
 
 ---
 ### [Think Twice Show](https://twitter.com/ThinkTwiceShow)

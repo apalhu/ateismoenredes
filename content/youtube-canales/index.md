@@ -107,4 +107,12 @@ description:
 > Un espacio para conocer y discutir con humor sobre historia, ciencia, filosofía, actualidad, cultura, pensamiento crítico.
 
 <!-- Con Carlos Ballarta: discriminación y teología en calzones -->
-`youtube:https://www.youtube.com/watch?v=pka1TcRWqwc`
+`youtube: https://www.youtube.com/watch?v=pka1TcRWqwc`
+
+<p>&nbsp;</p>
+
+### [Shirley Rivera](https://www.youtube.com/c/ShirleyGates/featured)
+> Puertorriqueña, atea y mujer. Fundadora de Ateístas de Puerto Rico, colabora en otras organizaciones seculares internaciones.
+
+<!-- El ateísmo es perseguido, la religión es un peligro -->
+`youtube: https://www.youtube.com/watch?v=g6I701yqYiY&t=153s`

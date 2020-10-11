@@ -38,3 +38,8 @@ Somos ateos comprometidos con los ideales Ilustrados. Hacemos activismo y hablam
 Grupo dedicaco a compartir información relacionada con la apostasía en México. Comparte tus experiencias, dudas o cualquier tipo de información.
 
 ---
+
+### [Razón y Ciencia Colombia](https://www.facebook.com/RazonyCienciaColombia)
+Pensamiento critico, medio por el cual podemos comprender realmente el universo que nos rodea, en contraposición a lo que ofrecen la superstición y las pseudociencias.
+
+---
