@@ -70,6 +70,10 @@ Ateísmo desde Argentina
 Ateísmo, racionalismo.
 
 ---
+### [Ateo Frases](https://www.instagram.com/ateo_frases/)
+"La fe no te da las respuestas, sólo detiene las preguntas."
+
+---
 ### [El ateo irreverente](https://www.instagram.com/el_ateo_irreverente/)
 Ateísmo irreverente.
 

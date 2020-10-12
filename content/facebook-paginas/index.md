@@ -14,6 +14,11 @@ Organización de activismo ateo sin fines de lucro.
 
 ---
 
+### [Herejes: El Podcast](https://www.facebook.com/herejespodcast/)
+Página del Podcast, en el que tocamos diversos temas polémicos desde el pensamiento crítico y la evidencia disponible.
+
+---
+
 ### [NO creo en tu dios](https://www.facebook.com/No-Creo-En-Tu-Dios-269232553936375/)
 ESPACIO PARA ATEOS. Publicaciones ateas y de interés general.
 
