@@ -123,5 +123,6 @@ export {
   FaHospitalSymbol,
   FaNewspaper,
   FaHandsHelping,
-  FaInfo
+  FaInfo,
+  FaPodcast
 } from "react-icons/fa"

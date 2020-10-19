@@ -55,6 +55,13 @@
     - file: ../content/twitter-cuentas/index.md
     - file: ../content/twitter-usuarios/index.md
 
+- id: potcasts
+  title: Podcasts
+  description: 
+  icon: "FaPodcast"
+  articles:
+    - file: ../content/potcasts/index.md
+
 - id: facebook
   title: Facebook
   description: 
