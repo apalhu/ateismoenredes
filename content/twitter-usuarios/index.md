@@ -92,6 +92,7 @@ description:
 * [J. Sebastián Chávez I.](https://twitter.com/jsci2712)
 * [Javi DDT](https://twitter.com/javiddt)
 * [Javi Morales BIO](https://twitter.com/JaviBIOMD)
+* [Javier Bernad](https://twitter.com/nefelopode)
 * [Jesús González](https://twitter.com/jgonzalezleal)
 * [Jexux Albizuri](https://twitter.com/iosuazkarate)
 * [jmb](https://twitter.com/josemiguelbienz)
