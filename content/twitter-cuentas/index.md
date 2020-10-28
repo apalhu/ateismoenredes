@@ -5,6 +5,10 @@ modifiedDate: null
 description: 
 ---
 
+### [Círculo Escéptico](https://twitter.com/cescept)
+Asociación sin ánimo de lucro para la promoción del pensamiento racional y crítico
+
+---
 ### [Ateísmo Brillante](https://twitter.com/AteismoBrillant)
 154.000 tuits sobre ateísmo y mucho más...
 
