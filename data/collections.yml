@@ -64,16 +64,17 @@
 
 - id: facebook
   title: Facebook
-  description: 
+  # OJO: Necesita, al menos, una descripción para que no salte un error.
+  description: Páginas, grupos y usuarios
   icon: "FaFacebook"
   articles:
     - file: ../content/facebook-paginas/index.md
     - file: ../content/facebook-grupos/index.md
     - file: ../content/facebook-usuarios/index.md
 
-- id: info
-  title: Información
-  description: Páginas web sobre ateísmo, humanísmo, ayuda, etc.
-  icon: "FaInfo"
-  articles:
-    - file: ../content/informacion/index.md
+#- id: info
+#  title: Información
+#  description: Páginas web sobre ateísmo, humanísmo, ayuda, etc.
+#  icon: "FaInfo"
+#  articles:
+#    - file: ../content/informacion/index.md
