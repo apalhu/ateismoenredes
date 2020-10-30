@@ -11,7 +11,7 @@ description:
 * [Afreewillsmo](https://twitter.com/Afreewillsmo)
 * [AHAG](https://twitter.com/ahagaviria)
 * [Albaricocker](https://twitter.com/AlbariCocker)
-* [Alberto P.]()
+* [Alberto P.](https://twitter.com/JesusLacle2)
 * [Alejandra](https://twitter.com/_AnimAleja_)
 * [Alejandro Mejía](https://twitter.com/alejomejiarengi)
 * [Alejandro Pava](https://twitter.com/alejopava16)
