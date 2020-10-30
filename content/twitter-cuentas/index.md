@@ -208,7 +208,7 @@ Ciencia sorprendente, escepticismo.
 Ciencia, escepticismo y sociedad.
 
 ---
-### [Rola Pagana y anarquista](https://twitter.com/yolitaroja)
+### [Rola Pagana](https://twitter.com/yolitaroja)
 Ateísmo y sociedad.
 
 ---
@@ -220,5 +220,8 @@ Blasfemias, humor negro y más...
 Grupo dedicaco a compartir información relacionada con la apostasía en México. Comparte tus experiencias, dudas o cualquier tipo de información.
 
 ---
+### [Crítico Social](https://twitter.com/CrticoSocial4)
+Ateísmo y Sociedad.
 
+---
 ---
