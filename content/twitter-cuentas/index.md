@@ -117,6 +117,10 @@ Ciencia, razón y laicismo.
 Comunidad Atea Dominicana, en una sociedad donde casi un 100% cree en espíritus.
 
 ---
+### [Ateo Analítico](https://twitter.com/AteoAnalitico)
+No es saludable estar bien adaptado a una sociedad profundamente enferma. 
+
+---
 ### [Quien Diablos Miente](https://twitter.com/MienteQuien)
 Religión, política y diversión.
 
@@ -221,7 +225,7 @@ Grupo dedicaco a compartir información relacionada con la apostasía en México
 
 ---
 ### [Crítico Social](https://twitter.com/CrticoSocial4)
-Ateísmo y Sociedad.
+Activista ateo y diulgador con una pizca de humor.
 
 ---
 ---
