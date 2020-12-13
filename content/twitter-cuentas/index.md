@@ -105,6 +105,10 @@ Ateísmo, reflexiones.
 Ateísmo, racionalismo.
 
 ---
+### [ElMonoDarwin](https://twitter.com/ElMonoDarwin)
+Divulgador del Ateísmo.
+
+---
 ### [Asociación de Ateos de Bogotá](https://twitter.com/AATEOSBTA)
 Trabaja por el Estado laico y los derechos humanos.
 
