@@ -4,6 +4,11 @@ date: 2020-09-07
 modifiedDate: null
 description: 
 ---
+
+### [Razón o fe](https://www.facebook.com/Razonofe)
+Página del canal de youtube con entrevistas, directos y tertulias sobre razón, creencias, ciencia, fe y religión. Desde un punto de vista racional.
+
+---
 ### [Soy ateo y qué](https://www.facebook.com/soyateo.yque.oficial)
 Ateísmo, Humanismo Secular, Escepticismo, Ecología, Defensa de Derechos, Equidad y Pensamiento Crítico.
 
@@ -21,6 +26,11 @@ Página del Podcast, en el que tocamos diversos temas polémicos desde el pensam
 
 ### [NO creo en tu dios](https://www.facebook.com/No-Creo-En-Tu-Dios-269232553936375/)
 ESPACIO PARA ATEOS. Publicaciones ateas y de interés general.
+
+---
+
+### [Mono Darwin](https://www.facebook.com/ElMonoDarwin/)
+Ateísmo y escepticismo.
 
 ---
 
