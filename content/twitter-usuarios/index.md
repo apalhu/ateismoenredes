@@ -182,6 +182,7 @@ description:
 * [Óscar](https://twitter.com/sagan99999)
 * [Óscar Pérez Soler](https://twitter.com/Oscar_VOLMAE)
 * [Pablo Porras](https://twitter.com/pporras77)
+* [Pablo Rodrigo](https://twitter.com/pablo_rodrigo66)
 * [Pablo Vicente](https://twitter.com/Zerokkk_)
 * [Padre Karras](https://twitter.com/PadreKarras)
 * [Paola Nieto Vásquez](https://twitter.com/pambish)

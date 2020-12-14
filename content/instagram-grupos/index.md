@@ -70,6 +70,10 @@ Ateísmo desde Argentina
 Ateísmo, racionalismo.
 
 ---
+### [L.C. Bardon Despertares](https://www.instagram.com/lcbardon/)
+Mi nueva novela: Despertares. Nacer dentro de una secta, narra mis vivencias dentro de la organización de los testigos de Jehová desde niña.
+
+---
 ### [Ateo Frases](https://www.instagram.com/ateo_frases/)
 "La fe no te da las respuestas, sólo detiene las preguntas."
 
