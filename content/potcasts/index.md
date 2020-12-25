@@ -17,7 +17,7 @@ Por una humanidad librepensante y crítica y un mundo sin hipótesis de dios ni 
 Conversaciones sobre vida secular, ciencias, lógica y nuestras experiencias personales.
 
 ---
-### [Razón o fe](https://www.ivoox.com/podcast-razon-o-fe_sq_f1718078_1.html)
+### [Razón o fe](https://open.spotify.com/show/5VIuFTTgxney6KHwZlrX7v?si=jvrNn0ECRmqBvk4NCXwJ0g)
 Entrevistas con personas del mundo de la ciencia y el pensamiento sobre la razón y la fe. 
 Directos con invitados y tertulias abiertas al público.
 Audios del canal de youtube "Razón o fe"
